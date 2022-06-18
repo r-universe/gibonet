@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "distrr"]
+	path = distrr
+	url = https://github.com/gibonet/distrr
+	shallow = true
+	registered = true
+[submodule "ggswissmaps"]
+	path = ggswissmaps
+	url = https://github.com/gibonet/ggswissmaps
+	shallow = true
+	registered = true
