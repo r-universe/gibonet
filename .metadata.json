@@ -1,5 +1,9 @@
 [
   {
+    "package": "distrr",
+    "oncran": true
+  },
+  {
     "package": "ggswissmaps",
     "oncran": true
   }
