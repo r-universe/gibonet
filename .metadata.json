@@ -1,10 +1,10 @@
 [
   {
-    "package": "distrr",
+    "package": "ggswissmaps",
     "oncran": true
   },
   {
-    "package": "ggswissmaps",
+    "package": "distrr",
     "oncran": true
   }
 ]
